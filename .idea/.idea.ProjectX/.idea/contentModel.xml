@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zloys\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zloys\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ProjectX.647451343.00" t="ExcludeRecursive" />
+    <e p="E:\Git\Repository\ProjectX" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Animations" t="Include" />
+        <e p="Models" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Imgs" t="Include" />
+              </e>
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="Readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Prefabs" t="Include" />
+        <e p="Resources" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ChangeText.cs" t="Include" />
+        </e>
+        <e p="StarterAssets" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PackageChecker" t="Include">
+              <e p="PackageCheckerSettings.json" t="Include" />
+            </e>
+            <e p="StarterAssetsDeployMenu.cs" t="Include" />
+            <e p="ThirdPersonStarterAssetsDeployMenu.cs" t="Include" />
+          </e>
+          <e p="Environment" t="Include">
+            <e p="Art" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Built-in_RP" t="Include" />
+                <e p="URP_HDRP_ShaderGraph" t="Include" />
+              </e>
+              <e p="Models" t="Include" />
+              <e p="Skybox" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include" />
+            <e p="RenderPipelineProfiles" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="Built-in_RP" t="Include">
+                <e p="ArmatureShader.shader" t="Include" />
+                <e p="Triplanar.shader" t="Include" />
+              </e>
+              <e p="URP_HDRP_ShaderGraph" t="Include" />
+            </e>
+          </e>
+          <e p="InputSystem" t="Include">
+            <e p="StarterAssetsInputs.cs" t="Include" />
+          </e>
+          <e p="license.txt" t="Include" />
+          <e p="Mobile" t="Include">
+            <e p="Prefabs" t="Include">
+              <e p="CanvasInputs" t="Include" />
+              <e p="EventSystem" t="Include" />
+              <e p="VirtualInputs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CanvasInputs" t="Include">
+                <e p="UICanvasControllerInput.cs" t="Include" />
+              </e>
+              <e p="Utilities" t="Include">
+                <e p="MobileDisableAutoSwitchControls.cs" t="Include" />
+              </e>
+              <e p="VirtualInputs" t="Include">
+                <e p="UIVirtualButton.cs" t="Include" />
+                <e p="UIVirtualJoystick.cs" t="Include" />
+                <e p="UIVirtualTouchZone.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UI" t="Include" />
+          </e>
+          <e p="ThirdPersonController" t="Include">
+            <e p="Character" t="Include">
+              <e p="Animations" t="Include" />
+              <e p="Materials" t="Include">
+                <e p="Built-in_RP" t="Include" />
+              </e>
+              <e p="Models" t="Include" />
+              <e p="Sfx" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include" />
+            <e p="Scenes" t="Include">
+              <e p="Playground" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BasicRigidBodyPush.cs" t="Include" />
+              <e p="ThirdPersonController.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TutorialInfo" t="Include">
+            <e p="Icons" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ReadmeEditor.cs" t="Include" />
+              </e>
+              <e p="Readme.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Terrain" t="Include" />
+        <e p="Texture" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="Skybox" t="Include">
+            <e p="Cubemaps" t="Include">
+              <e p="Classic" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+              <e p="FS002" t="Include">
+                <e p="Images" t="Include" />
+              </e>
+              <e p="FS003" t="Include">
+                <e p="Images" t="Include" />
+              </e>
+              <e p="FS013" t="Include">
+                <e p="Images" t="Include" />
+              </e>
+              <e p="FS017" t="Include">
+                <e p="Images" t="Include" />
+              </e>
+            </e>
+            <e p="Panoramics" t="Include">
+              <e p="FS002" t="Include" />
+              <e p="FS003" t="Include" />
+              <e p="FS013" t="Include" />
+              <e p="FS017" t="Include" />
+            </e>
+            <e p="Readme.txt" t="Include" />
+            <e p="ReleaseNotes.txt" t="Include" />
+            <e p="Scenes" t="Include">
+              <e p="Demo with terrain" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ProjectX.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
